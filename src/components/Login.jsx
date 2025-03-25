@@ -7,7 +7,7 @@ const Login = () => {
 
                 <div className="flex flex-col gap-2">
                     <h2 className='font-bold w-[60%] text-left text-3xl'>Signin to your PopX Account</h2>
-                    <p className='w-[75%] text-gray-400 font-semibold text-lg '>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p className='w-[75%] text-gray-400 text-left font-semibold text-lg '>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 
                     <form action="" className='my-5'>
                         <div className="relative flex flex-col">
