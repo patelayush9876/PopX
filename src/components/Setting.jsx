@@ -15,7 +15,7 @@ const Settings = () => {
                 <div className="info flex flex-col gap-3 my-8">
                     <div className="mx-2 flex gap-3">
                         <div className="h-20 w-20 rounded-full  relative">
-                            <img src="../../public/assets/Screenshot 2025-03-26 024411.png" alt="" className='rounded-full h-20 w-20' />
+                            <img src="/assets/Screenshot 2025-03-26 024411.png" alt="" className='rounded-full h-20 w-20' />
                             <div className='h-7 w-7 flex items-center justify-center rounded-full text-white bg-[#7B3FF6] absolute right-0 -bottom-0'>
                                 <FaCamera />
                             </div>
