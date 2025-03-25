@@ -13,7 +13,7 @@ const Settings = () => {
                 </div>
 
                 <div className="info flex flex-col gap-3 my-8">
-                    <div className="mx-2 flex gap-3">
+                    <div className="mx-2 flex px-3 gap-3">
                         <div className="h-20 w-20 rounded-full  relative">
                             <img src="/assets/Screenshot 2025-03-26 024411.png" alt="" className='rounded-full h-20 w-20' />
                             <div className='h-7 w-7 flex items-center justify-center rounded-full text-white bg-[#7B3FF6] absolute right-0 -bottom-0'>
@@ -28,7 +28,7 @@ const Settings = () => {
                         </div>
                     </div>
 
-                    <p className='text-gray-600 font-semibold pt-4 text-justify'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde dolores numquam, voluptas omnis voluptate voluptates ipsum dolor sit.</p>
+                    <p className='text-gray-600  px-3 font-semibold pt-4 text-justify'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde dolores numquam, voluptas omnis voluptate voluptates ipsum dolor sit.</p>
                 </div>
             </div>
         </>
