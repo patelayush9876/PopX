@@ -1,13 +1,14 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import { IoSettingsOutline } from "react-icons/io5";
 
 const Home = () => {
     return (
         <>
             <div className='h-[100vh] max-w-[400px] relative px-5 py-5 mx-auto bg-gray-100'>
 
-                <div className="settings flex justify-self-end">
-                    <Link to='/settings' className='cursor-pointer'></Link>
+            <div className="settings flex justify-self-end">
+                    <Link to='/settings' className='cursor-pointer'><IoSettingsOutline size={20} /></Link>
                 </div>
 
                 <div className='flex flex-col absolute bottom-5 z-10 gap-2'>
